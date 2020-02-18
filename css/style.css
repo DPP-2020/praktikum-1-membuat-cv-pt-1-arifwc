@@ -1,3 +1,12 @@
 .img-responsive {
-    width: 70%;
+    width: 100%;
+}
+.col-md-4{
+    background-color: burlywood;
+}
+.col-md-6{
+    background-color: orange;
+}
+#row1{
+    background-color: orange;
 }
