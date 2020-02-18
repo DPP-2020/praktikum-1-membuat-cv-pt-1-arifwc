@@ -2,11 +2,11 @@
     width: 100%;
 }
 .col-md-4{
-    background-color: burlywood;
+    background-color: orange;
 }
 .col-md-6{
-    background-color: orange;
+    background-color: burlywood;
 }
 #row1{
-    background-color: orange;
+    background-color: burlywood;
 }
